@@ -1,0 +1,10 @@
+﻿  MPI1.cpp
+C:\Users\mikha\source\repos\MPI1\MPI1\MPI1.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mikha\source\repos\MPI1\MPI1\MPI1.cpp(68,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\mikha\source\repos\MPI1\MPI1\MPI1.cpp(82,13): warning C4101: status: неиспользованная локальная переменная
+  Создание кода
+  2 of 21 functions ( 9.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MPI1.vcxproj -> C:\Users\mikha\source\repos\MPI1\Release\MPI1.exe

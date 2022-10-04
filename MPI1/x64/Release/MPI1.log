@@ -1,0 +1,3 @@
+﻿  MPI1.cpp
+C:\Users\mikha\source\repos\MPI1\MPI1\MPI1.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : fatal error LNK1181: не удается открыть входной файл "msmpi.lib"
